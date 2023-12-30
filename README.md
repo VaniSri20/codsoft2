@@ -1,7 +1,7 @@
 # codsoft2
 # intern project
 # Secure Password Generator
-3 Overview:
+# Overview:
 This project is a robust and secure password generator implemented in python programming. It empowers users to create strong, random passwords with customizable lengths and character sets, enhancing the security of various applications.
 
 # Features:
